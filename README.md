@@ -16,7 +16,7 @@ The project looks at how malaria cases can be analysed across Nigeria's 36 state
 
 This page gives an overview of the dataset, including total cases, total deaths, death rate, yearly trends, regional distribution, risk levels, monthly seasonality, and year-over-year growth.
 
-![Executive Summary](screenshots/01-executive-summary.png)
+![Executive Summary](screenshots/01-executive-summary.png.png)
 
 > **Please note:** The dashboard uses simulated data, not official Nigerian malaria statistics.
 
@@ -162,19 +162,19 @@ Provides an overview of the main KPIs, yearly case and death trends, regional di
 
 Focuses on state-level comparisons and geographical patterns. It includes a map, population-versus-incidence analysis, state comparisons for case volume and death rate, and a time-intelligence matrix.
 
-![Geographic Analysis](screenshots/02-geographic-analysis.png)
+![Geographic Analysis](screenshots/02-geographic-analysis.png.png)
 
 ### 3. Key Insights and Recommendations
 
 Summarises the main patterns observed in the simulation and presents the key takeaways from the analysis.
 
-![Key Insights](screenshots/03-key-insights.png)
+![Key Insights](screenshots/03-key-insights.png.png)
 
 ### 4. Home
 
 Provides the starting point for navigating through the report.
 
-![Home](screenshots/04-home.png)
+![Home](screenshots/04-home.png.png)
 
 ### 5. Thank You
 
